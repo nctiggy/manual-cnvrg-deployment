@@ -12,7 +12,7 @@ function as intended
 ## CLI Tool Requirements
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) - Must have permissions to
 at least a namespace in the cluster
-- [copctl](https://github.com/AccessibleAI/cnvrg-operator/releases/tag/4.3.6-DEV-14449-export-manifests-cli)
+- [copctl](https://github.com/AccessibleAI/cnvrg-operator/releases/tag/4.3.6-DEV-14449-export-manifests-cli) -
 Tool to generate kubernetes manifests
 
 ## Information Gathering
