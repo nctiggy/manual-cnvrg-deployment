@@ -1,7 +1,7 @@
 ## Install Notes
 This install will deploy converge into environments that do not permit an operator
 to have cluster admin privaleges. Normally this is encountered when deploying into
-large shared clusters. The copctl tool is only supported on linux or macos environments
+large shared clusters. The copctl tool is only supported on linux or macOS environments
 
 ## Assumptions
 - Metrics and logging are not handled by cnvrg and would need custom work in integrate
